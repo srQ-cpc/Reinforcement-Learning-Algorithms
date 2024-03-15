@@ -8,4 +8,5 @@ conda activate Reinforcement-Learning-Algorithms
 pip install --upgrade pip
 pip install gym
 pip install tensorflow
+pip install pygame
 ```
