@@ -1,9 +1,5 @@
-import random
-import math
 import numpy as np
 import tensorflow as tf
-
-from collections import deque
 
 from keras.models import Model
 from keras.layers import Input, Dense, Flatten
